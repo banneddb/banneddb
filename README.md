@@ -9,6 +9,6 @@
 ...
 
 
-![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BehruzOmon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BehruzOmon&layout=compact&theme=radical)
+![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bannedb&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bannedb&layout=compact&theme=radical)
 
