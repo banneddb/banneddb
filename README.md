@@ -18,7 +18,7 @@ Currently focused on:
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 <p>
