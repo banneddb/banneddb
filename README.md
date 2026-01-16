@@ -40,19 +40,12 @@ Currently focused on:
 
 ## 📌 Featured Projects
 
-🚀 Featured Projects
+[![Tashkent Metro Routing Engine](https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=tashkentmetroengine&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/banneddb/tashkentmetroengine)
 
-<a href="https://github.com/banneddb/tashkentmetroengine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=tashkentmetroengine&theme=github_dark&hide_border=true" />
-</a>
+[![DictionaryDude](https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=DictionaryDude&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/banneddb/DictionaryDude)
 
-<a href="https://github.com/banneddb/DictionaryDude">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=DictionaryDude&theme=github_dark&hide_border=true" />
-</a>
+[![MasterDealer](https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=MasterDealer&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/banneddb/MasterDealer)
 
-<a href="https://github.com/banneddb/MasterDealer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=MasterDealer&theme=github_dark&hide_border=true" />
-</a>
 
 ---
 
