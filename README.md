@@ -38,14 +38,6 @@ Currently focused on:
 
 ---
 
-## 📈 Currently Working On
-- Improving backend performance & API design
-- Adding transfer logic + weighted routing to metro engine
-- Interview prep (DSA + system fundamentals)
-- Learning system design and architecture
-
----
-
 ## 📫 Let’s Connect!
 - GitHub: https://github.com/banneddb  
 - LinkedIn: https://www.linkedin.com/in/behruzomon/
