@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I’m a CS student who enjoys building end-to-end systems that can be scaled and shipped. 
 I'm a student who likes learning and utilizing new technologies to my advantage to make my projects even better!
-During my free time, I like building projects that have a real impact on people's lives (I try haha).
+During my free time, I like building projects that have a real impact on people's lives.
 
 Currently focused on:
 - Full-stack development (React, APIs, databases, system design)
@@ -41,13 +41,20 @@ Currently focused on:
 
 ## 📌 Featured Projects
 
+🚀 Featured Projects
+
 <a href="https://github.com/banneddb/tashkentmetroengine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=tashkentmetroengine" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=tashkentmetroengine&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/banneddb/DictionaryDude">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=DictionaryDude" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=DictionaryDude&theme=github_dark&hide_border=true" />
 </a>
+
+<a href="https://github.com/banneddb/MasterDealer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=MasterDealer&theme=github_dark&hide_border=true" />
+</a>
+
 ---
 
 ## 📫 Let’s Connect!
