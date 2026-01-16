@@ -27,15 +27,14 @@ Currently focused on:
 ---
 
 ## 📌 Featured Projects
-- **Tashkent Metro Routing Engine**  
-  Backend routing engine simulating metro navigation using graph algorithms (BFS, transfers, weighted paths).
 
-- **DictionaryDude (Discord Bot)**  
-  Production-ready Discord bot integrated with Merriam-Webster API for definitions, pronunciation, and synonyms.
+<a href="https://github.com/banneddb/tashkentmetroengine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=tashkentmetroengine" />
+</a>
 
-- **MasterDealer**  
-  Python-based project focused on game logic and state management. Think of it as a game of blackjack that you play against a smart computer!
-
+<a href="https://github.com/banneddb/DictionaryDude">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=banneddb&repo=DictionaryDude" />
+</a>
 ---
 
 ## 📫 Let’s Connect!
