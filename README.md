@@ -1,16 +1,15 @@
 # Hi, I’m Behruz 👋
 
-🎓 Computer Science student at Temple University  
+🎓 Honors Computer Science student at Temple University  
 💻 Aspiring Software Engineer | Backend & Systems-focused  
 ☁️ Interested in Cloud, Distributed Systems, and AI  
 
 ---
 
 ## 🚀 About Me
-I’m a CS student who enjoys end-to-end systems that can be scaled and shipped. I'm a student who likes learning and utilizing new technologies to my advantage to make my projects even better!
-
+I’m a CS student who enjoys end-to-end systems that can be scaled and shipped. 
+I'm a student who likes learning and utilizing new technologies to my advantage to make my projects even better!
 During my free time, I like building projects that have a real impact on people's lives.
-Making people's lives even 1% easier is my goal in life. 
 
 Currently focused on:
 - Full-stack development (React, APIs, databases, system design)
@@ -35,7 +34,7 @@ Currently focused on:
   Production-ready Discord bot integrated with Merriam-Webster API for definitions, pronunciation, and synonyms.
 
 - **MasterDealer**  
-  Python-based project focused on game logic and state management. Think of it as a game of black jack!
+  Python-based project focused on game logic and state management. Think of it as a game of blackjack that you play against a smart computer!
 
 ---
 
@@ -43,9 +42,10 @@ Currently focused on:
 - Improving backend performance & API design
 - Adding transfer logic + weighted routing to metro engine
 - Interview prep (DSA + system fundamentals)
+- Learning system design and architecture
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect!
 - GitHub: https://github.com/banneddb  
 - LinkedIn: https://www.linkedin.com/in/behruzomon/
