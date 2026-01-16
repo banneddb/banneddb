@@ -7,9 +7,8 @@
 ---
 
 ## 🚀 About Me
-I’m a CS student who enjoys building end-to-end systems that can be scaled and shipped. 
-I'm a student who likes learning and utilizing new technologies to my advantage to make my projects even better!
-During my free time, I like building projects that have a real impact on people's lives.
+
+I’m a Computer Science student who enjoys building end-to-end systems that can be scaled and shipped. I enjoy learning new technologies and applying them to improve and scale my projects. In my free time, I work on projects that aim to solve real problems and have a meaningful impact.
 
 Currently focused on:
 - Full-stack development (React, APIs, databases, system design)
