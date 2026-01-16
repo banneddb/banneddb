@@ -19,10 +19,23 @@ Currently focused on:
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python, Java, C, HTML/CSS, JavaScript, SQL  
-**Frameworks & Tools:** Node.js, Vite, React, JUnit, Git/GitHub, VS Code, GitHub Copilot, Claude Code
-**APIs & Databases:** MySQL, REST APIs, Discord API, Google Cloud API, Google Maps/Places API
+🛠 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql" />
+</p>
+
+**Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vite,git,github,vscode,mysql" />
+</p>
+
+**APIs & Platforms**
+- REST APIs, Discord API  
+- Google Maps & Places API  
+- Google Cloud APIs
+
 
 ---
 
